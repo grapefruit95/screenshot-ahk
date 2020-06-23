@@ -1,3 +1,3 @@
 ^PrintScreen::
-Run pythonw.exe D:\rocco\Documents\repo\screenshot\screenshot.py
+Run pythonw.exe C:\Users\rocco\Desktop\GitHub\repo\screenshot.py
 return
